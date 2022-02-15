@@ -12,3 +12,5 @@ Easy-to-play game written in pure JS, but possibly this is not what you want to 
 
 
 ![Screenshot](screenshot.png)
+
+copyright The Complete JavaScript Course 2022: From Zero to Expert! by Jonas Schmedtmann
